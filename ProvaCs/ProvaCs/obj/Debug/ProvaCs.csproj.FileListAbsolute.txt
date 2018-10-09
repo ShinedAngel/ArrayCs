@@ -1,0 +1,7 @@
+C:\Users\31816774\Desktop\ProvaCs\ProvaCs\bin\Debug\ProvaCs.exe.config
+C:\Users\31816774\Desktop\ProvaCs\ProvaCs\bin\Debug\ProvaCs.exe
+C:\Users\31816774\Desktop\ProvaCs\ProvaCs\bin\Debug\ProvaCs.pdb
+C:\Users\31816774\Desktop\ProvaCs\ProvaCs\obj\Debug\ProvaCs.csprojAssemblyReference.cache
+C:\Users\31816774\Desktop\ProvaCs\ProvaCs\obj\Debug\ProvaCs.csproj.CoreCompileInputs.cache
+C:\Users\31816774\Desktop\ProvaCs\ProvaCs\obj\Debug\ProvaCs.exe
+C:\Users\31816774\Desktop\ProvaCs\ProvaCs\obj\Debug\ProvaCs.pdb
